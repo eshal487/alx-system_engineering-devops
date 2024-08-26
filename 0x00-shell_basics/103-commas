@@ -1,0 +1,3 @@
+  #!/bin/bash
+ (echo .; echo ..; ls -1 | sort -V | grep -v '^\.') | sed 's/$/\//' | tr '\n' ',' | sed 's/,$//;s/,/, /g'
+
