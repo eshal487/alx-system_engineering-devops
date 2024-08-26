@@ -1,152 +1,0 @@
-[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;44r[?12h[?12l[22;2t[22;1t[?25l[44;1H"echo" [New File]
-Entering Ex mode.  Type "visual" to go to Normal mode.[?25h
-:   
-[?25l[97m[41mE749: empty buffer[?25h[m
-:"
-:"'''''''[34m^Z^Z[mz
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:[34m^[[m[A[34m^[[m[B[34m^[[m[A[34m^[[m[A[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C'drq[34m^[^[^[^[^[[mccccccccccccccc        '"""""""":[34m^[[m[A[34m^[[m[B[34m^[[m[A[34m^[[m[A[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C'drq[34m^[^[^[^[^[[mccccccccccccccc        '"""""""[44;127H[K[44;127H:[34m^[[m[A[34m^[[m[B[34m^[[m[A[34m^[[m[A[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C'drq[34m^[^[^[^[^[[mccccccccccccccc        '""""""[44;126H[K[44;126H:[34m^[[m[A[34m^[[m[B[34m^[[m[A[34m^[[m[A[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C'drq[34m^[^[^[^[^[[mccccccccccccccc        '"""""[44;125H[K[44;125H:[34m^[[m[A[34m^[[m[B[34m^[[m[A[34m^[[m[A[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C[34m^[[m[C'drq[34m^[^[^[^[^[[mccccccccccccccc        '""""[44;124H[K[44;124H
-[?25l[97m[41mE492: Not an editor command: ^[[A^[[B^[[A^[[A^[[B^[[B^[[B^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C^[[C'drq^[^[^[^[^[ccccccccccccccc        '""""[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:
-[?25l[97m[41mE749: empty buffer[?25h[m
-:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[[44;80H[K[44;80H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[44;79H[K[44;79H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[44;77H[K[44;77H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[[44;76H[K[44;76H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[44;75H[K[44;75H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[44;73H[K[44;73H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[[44;72H[K[44;72H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[44;71H[K[44;71H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[44;69H[K[44;69H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[[44;68H[K[44;68H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[44;67H[K[44;67H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[44;65H[K[44;65H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[[44;64H[K[44;64H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[44;63H[K[44;63H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[44;61H[K[44;61H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[[44;60H[K[44;60H:[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[44;59H[K[44;59Hccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z^Z[mAzzzzzzm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z^Z[mAzzzzzm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z^Z[mAzzzzm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z^Z[mAzzzm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z^Z[mAzzm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z^Z[mAzm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z^Z[mAm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z^Z[mm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc[34m^Z[mm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgcm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schoolm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schoom[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schom[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./scm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./sm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc.m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgcm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schoolm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schoom[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schom[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./scm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./sm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc.m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgcm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schoolm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schoom[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schom[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./scm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./sm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc.m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgcm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schoolm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schoom[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schom[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./schm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./scm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./sm[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-[43;168H.[44;1Hmgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./school.mgc./m[34m^[^[^[[m`````````ccccccc         [34m^[[m[C[34m^[[m[C[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[m[B[34m^[[mccccccbvbvvbbvvbvb   cqQW:"::nc[34m^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z^Z[m./school.mgc./school.mgc./school.mgc./school.mgc./school
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-:
-
-
-Vim: Finished.
-[44;1H[?25h[23;2t[23;1t2 files to edit
